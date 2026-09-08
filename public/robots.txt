@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://26-sd-ocean-bid.softwarelink.net/sitemap.xml
